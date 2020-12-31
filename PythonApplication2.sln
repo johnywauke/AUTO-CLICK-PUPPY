@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AUTO CLICK PUPPY TOWN", "PythonApplication2\AUTO CLICK PUPPY TOWN.pyproj", "{71D3FD49-0500-4835-98DE-5C6CD1CE086F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D3FD49-0500-4835-98DE-5C6CD1CE086F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D3FD49-0500-4835-98DE-5C6CD1CE086F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {730255DE-47E2-43F9-BBD6-A87D910EE215}
+	EndGlobalSection
+EndGlobal
